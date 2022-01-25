@@ -6,7 +6,7 @@ Api rest com .net core e entity framework
 
 2º - git pull origin master - baixar do site para o local
 
-3º - git remote add origin https://github.cogit remote add origin https://github.com/Marlonalves/ApiRest.NetFramework.gitm/Marlonalves/ApiRest.NetFramework.git
+3º - git remote add origin https://github.com/Marlonalves/ApiRest.NetFramework.gitm/Marlonalves/ApiRest.NetFramework.git
 
 4º - git status
 
